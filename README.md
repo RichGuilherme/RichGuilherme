@@ -30,6 +30,7 @@
 <a href="https://linkedin.com/in/richard guilherme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richard guilherme" height="30" width="40" /></a>
 <a href="https://instagram.com/richard_guilh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="richard_guilh" height="30" width="40" /></a>
 </p>  
-  
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 "A tecnologia move o mundo" Steve Jobs 
 
