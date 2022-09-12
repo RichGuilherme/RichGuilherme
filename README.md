@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/RichGuilherme/RichGuilherme/blob/main/assets/ezgif.com-gif-maker.gif" alt="Oi, eu sou Richard">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richguilherme&label=Profile%20views&color=0e75b6&style=flat" alt="richguilherme" /> </p>
 
