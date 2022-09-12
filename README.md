@@ -22,9 +22,9 @@
 <div>            
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.instagram.com/richard_guilh/"target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/richard-guilherme-396886228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.udemy.com/user/richard-guilherme-afonso-silva/" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" targe="_blank"></a>
+<a>E-mail:richard.guilhermeAS@hotmail.com</a>
 
 ![Snake animation](https://github.com/RichGuilherme/RichGuilherme/blob/output/github-contribution-grid-snake.svg)
 </div>
