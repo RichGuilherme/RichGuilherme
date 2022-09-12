@@ -1,9 +1,7 @@
-<h1 align="center">Oie 👋, Eu sou Richard Guilherme</h1>
-<h3 align="center">Sou um futuro desenvolvedor front-end que ama programação</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richguilherme&label=Profile%20views&color=0e75b6&style=flat" alt="richguilherme" /> </p>
 
-- 📖 I’m currently learning **inglês, JavaScript, CSS and HTML**
 
 - 📫 How to reach me **richard.guilhermeAS@hotmail.com**
 
