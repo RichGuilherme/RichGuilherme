@@ -4,11 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richguilherme&label=Profile%20views&color=0e75b6&style=flat" alt="richguilherme" /> </p>
 
-
-- 📫 How to reach me **richard.guilhermeAS@hotmail.com**
-
-- 📄 Know about my experiences [linkedin.com/in/richard-guilherme-396886228](linkedin.com/in/richard-guilherme-396886228)
-
 #
 
 <div align="center">
@@ -24,13 +19,14 @@
 </div>
   
 #          
-            
+<div>            
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/richard guilherme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richard guilherme" height="30" width="40" /></a>
-<a href="https://instagram.com/richard_guilh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="richard_guilh" height="30" width="40" /></a>
-</p>  
+<a href="https://www.instagram.com/richard_guilh/"target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:richard.guilhermeAS@hotmail.com"target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/richard-guilherme-396886228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.udemy.com/user/richard-guilherme-afonso-silva/" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" targe="_blank"></a>
 
 ![Snake animation](https://github.com/RichGuilherme/RichGuilherme/blob/output/github-contribution-grid-snake.svg)
+</div>
 "A tecnologia move o mundo" Steve Jobs 
 
