@@ -13,10 +13,12 @@
 </div>
 <div align="center" style="display: inline_block"><br> 
 <img alt="js" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt"tailwind" height="40x" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img alt="css" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />  
 <img alt="react" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img alt="typescript" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img alt="html" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img alt="styled components" height="40" width="50"src="https://cdn-images-1.medium.com/fit/t/1600/480/1*7jRD5QhgARucFKvRHFxpOg.png" />
 <img alt="git" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img alt="npm" height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </div>
