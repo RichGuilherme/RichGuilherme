@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=186&color=gradient&text=Hello%20world!!&section=header&descAlign=10&fontAlignY=35&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=186&color=gradient&text=Hello%20world!!&section=header&descAlign=40&fontAlignY=35&animation=twinkling"/>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=richGuilherme&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=richGuilherme&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
@@ -7,11 +8,11 @@
 ###
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=richGuilherme&theme=tokyo-night&hide_border=true&days=14" alt="Gráfico de Atividade no GitHub">
 
-<img align="right" height="150" src="https://imgflip.com/gif/997eg4"  />
+<img align="right" height="180" src="https://i.imgflip.com/997f5v.gif"  />
 
 ###
 
-<div align="left">
+<div align="left" style="margin-top: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -51,4 +52,4 @@
 ###
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=96&color=gradient&section=footer&descAlign=44"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=96&color=gradient&section=footer&descAlign=37"/>
