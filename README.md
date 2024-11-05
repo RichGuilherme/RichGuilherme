@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=186&color=gradient&text=Hello%20world!!&section=header&fontAlignY=35&animation=twinkling&descAlign=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=186&text=Hello%20world!!&section=header&fontAlignY=35&color=0:13547a,100:80d0c7&animation=twinkling&descAlign=40&fontColor=ffffff"/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=richGuilherme&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
@@ -52,4 +52,4 @@
 ###
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=96&color=gradient&section=footer&descAlign=37"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=96&section=footer&descAlign=37&color=0:13547a,100:80d0c7&fontColor=ffffff"/>
